@@ -1,0 +1,4 @@
+Baby Wall-E (Fully Functional) by ProfBoots on Thingiverse: https://www.thingiverse.com/thing:5957438
+
+Summary:
+Hey everybody! These are the 3D Printed components for my Baby Wall-e Project. Baby Wall-e is a fully functioning Arduino controlled robot that can be controlled from a phone via Bluetooth. He has a compartment(Trash Compacter) that can be open and closed remotely, some would say "The Perfect Gift Delivering Machine!). I hope you enjoy and make sure to check out the corresponding YouTube videos where i go into detail on how you can build one for yourselfCheck out my YT Channel ProfessorBoots for a full build break down!https://youtu.be/iaqVNqsvQwI
