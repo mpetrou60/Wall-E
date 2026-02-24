@@ -1,4 +1,6 @@
 # Wall-E (Waste Allocation Load Lifter: Earth-Class)
+> [!NOTE]
+> Full disclaimer: I very much followed the instructions from ProfessorBoots' YouTube; [https://www.youtube.com/watch?v=Cqv2w0qYf-s](url). I may add my own functionality and update this one day, but as of the present moment, I am about 2 minutes into the YouTube videos.
 
 ## Step 1: 3D Print all Wall-E's body
 
